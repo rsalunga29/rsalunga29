@@ -1,5 +1,5 @@
 ### 👋 Hello there.
-I'm Roland, people call me Akio. I'm a self-taught Fullstack Software Engineer from Philippines, I currently work at [Hiraya MNL](https://hirayamnl.com).
+I'm Roland, also called Akio. I'm a self-taught Fullstack Software Engineer from Philippines, I currently work at [Hiraya MNL](https://hirayamnl.com).
 
 [![Linkedin Badge](https://img.shields.io/badge/-rsalunga29-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsalunga29/)](https://www.linkedin.com/in/rsalunga29/)
 [![Twitter Badge](https://img.shields.io/badge/-akiocodes-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/akiocodes/)](https://twitter.com/akiocodes)
