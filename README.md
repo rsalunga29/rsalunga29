@@ -25,7 +25,7 @@ I'm Roland, also called Akio. I'm a self-taught Fullstack Software Engineer from
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsalunga29&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=fffff) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsalunga29&layout=compact)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsalunga29&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=fffff) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsalunga29&layout=compact) -->
 
 <!--
 **rsalunga29/rsalunga29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
